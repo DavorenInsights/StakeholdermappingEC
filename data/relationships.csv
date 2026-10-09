@@ -1,0 +1,33 @@
+from_id,to_id,relationship_type,reason
+mabuyane,pieters,Formal,Provincial executive / DEDEAT political portfolio
+pieters,mama,Formal,Political executive to accounting officer
+mama,booi,Formal,Economic development leadership
+booi,mcmaster,Formal,Sustainable energy function
+booi,lazarus,Formal,Trade and investment promotion
+mama,jongile,Formal,Financial governance
+mabuyane,sogoni,Formal,Provincial political / administrative apex
+sogoni,qwase,Formal,Executive support and stakeholder management
+mabuyane,mvoko,Formal,Provincial finance political portfolio
+mvoko,majeke,Formal,Treasury political / administrative
+mabuyane,williams,Formal,Provincial COGTA political portfolio
+williams,mlokothi,Formal,COGTA political / administrative
+mabuyane,nqatha,Formal,Provincial transport political portfolio
+nqatha,fani,Formal,Transport political / administrative
+mabuyane,lusithi,Formal,Provincial infrastructure political portfolio
+lusithi,penxa,Formal,DPWI political / administrative
+mcmaster,koza,Coordination,Hydrogen project / Coega enabling infrastructure
+lazarus,koza,Coordination,SEZ investment and investor facilitation
+mcmaster,zweni,Coordination,Provincial hydrogen strategy / ELIDZ platform
+lazarus,zweni,Coordination,Investment / industrial platform
+booi,wakaba,Coordination,Provincial economic-development interface
+qwase,mlokothi,Coordination,Intergovernmental / municipal coordination
+mcmaster,bala,Coordination,Transmission / grid access
+mcmaster,phillips,Coordination,Water resource / enabling infrastructure
+mcmaster,abdool,Coordination,Ports / export infrastructure
+lazarus,lekhethe,Coordination,Industrial development finance
+lazarus,mosako,Coordination,Infrastructure finance / project preparation
+koza,lobishe,Coordination,Coega / metro enabling environment
+koza,abdool,Coordination,Coega / Port of Ngqura interface
+zweni,faku,Coordination,ELIDZ / Buffalo City interface
+ncokazi,zweni,Coordination,Municipal economic development / ELIDZ
+mqoqi,zweni,Coordination,Municipal infrastructure / ELIDZ

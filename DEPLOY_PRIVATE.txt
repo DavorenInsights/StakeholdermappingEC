@@ -1,0 +1,26 @@
+PRIVATE DEPLOYMENT — STEP BY STEP
+
+1. Unzip the package.
+2. Create a PRIVATE GitHub repository (for example: ec-hydrogen-intelligence).
+3. Upload:
+   - streamlit_app.py
+   - requirements.txt
+   - README.md
+   - the entire data/ folder
+4. Open Streamlit Community Cloud and sign in with the GitHub account that can access the repo.
+5. Choose Create app.
+6. Repository: select your private repo.
+7. Main file: streamlit_app.py
+8. Deploy.
+9. Open the app's Sharing / permissions settings.
+10. Choose the option that limits access to specific people.
+11. Add only approved work emails.
+
+MAINTENANCE
+- Edit CSV data, not Python, for normal stakeholder changes.
+- Commit the edited CSV to GitHub.
+- The deployed app updates from the repository.
+- Use the Sources & quality page to see profiles needing re-verification.
+
+NEXT UPGRADE ONLY IF NEEDED
+If the app becomes a real team tool and people need to save notes directly inside it, add a private persistent database (for example Supabase/Postgres). Do not build that until the current app is actually being used.
